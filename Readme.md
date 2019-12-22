@@ -1,6 +1,6 @@
 #  EGG TIMER
 
-![](egg timer.gif)
+![](eggtimer.gif)
 
 ## About:-
 
